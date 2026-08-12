@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-tpvq43.hartawin.online/sitemap.xml
